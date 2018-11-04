@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Daniel\Desktop\ChatTuga\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="787871951412550519b0222aba3c9df4cea49875">
+        <dex dex="C:\Users\Daniel\Desktop\ChatTuga\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-24.1.1_d59f28d6c41c4cc0abaaf903527c6b532588a5dc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Daniel\Desktop\ChatTuga\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bf2e1838e4428616c1aa26edf43de72b5b99bf84">
+        <dex dex="C:\Users\Daniel\Desktop\ChatTuga\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-9.8.0_e271b2583311869fc6fd054a6e5d4707daaa5885\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Daniel\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\Daniel\Desktop\ChatTuga\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_82b3262d4700c2be5ec69ef7b548930f4b79e4a3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Daniel\Desktop\ChatTuga\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\Daniel\Desktop\ChatTuga\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_390ba0126f04a672c62bcac59c3a1f3d782b9db8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Daniel\Desktop\ChatTuga\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\Daniel\Desktop\ChatTuga\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_e843635e4969fd1cce022a995241603942181196\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Daniel\Desktop\ChatTuga\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e9b2cfdfd59b03643f1e240668275378b96615a8">
+        <dex dex="C:\Users\Daniel\Desktop\ChatTuga\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-lite-9.8.0_ba8850b561c31030ade19d5eeac1a94fa2bb1fd6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Daniel\Desktop\ChatTuga\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="363a20f1d25336e827dd24020f2ecdc42d62638f">
+        <dex dex="C:\Users\Daniel\Desktop\ChatTuga\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gass-9.8.0_2779f9dbe179219c7099f27b41bdf731bd9a278e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Daniel\Desktop\ChatTuga\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\Daniel\Desktop\ChatTuga\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_ac204c5b9a78d7e71d25accdf2637a454ffdb54e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Daniel\Desktop\ChatTuga\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-common\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4438b1a7848a7c571122ba618aa1304514aabee6">
+        <dex dex="C:\Users\Daniel\Desktop\ChatTuga\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-common-9.8.0_4f56d999c961802983bd9e456a61bb0acf4c404e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Daniel\Desktop\ChatTuga\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5304fd374e0b4ebf6b42d4037fbfb2c5336511">
+        <dex dex="C:\Users\Daniel\Desktop\ChatTuga\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-clearcut-9.8.0_d7f609a38aeef7a2aa59c27636c72e8e44e83719\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Daniel\Desktop\ChatTuga\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="03df48d3713661d66ad024b1e406259a4c26fcac">
+        <dex dex="C:\Users\Daniel\Desktop\ChatTuga\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-9.8.0_c0f8ce56bb336b575a357cf43a104152ef7c2b05\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Daniel\Desktop\ChatTuga\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5f47ede9561595584dca71104baa0fecb36dda87">
+        <dex dex="C:\Users\Daniel\Desktop\ChatTuga\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-connection-9.8.0_63511ebd1dd206f10ada55b6fdcd5796e89d063f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Daniel\Desktop\ChatTuga\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\Daniel\Desktop\ChatTuga\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_58e063efe09a1c8ccd2a646855e33827656f736c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Daniel\Desktop\ChatTuga\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\Daniel\Desktop\ChatTuga\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_5838ec9b9b25cd9edba8954a70b7f46bf58214f7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Daniel\Desktop\ChatTuga\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\Daniel\Desktop\ChatTuga\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_3a7dc927a27b28e33235241803dcd24a7cd7197c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Daniel\Desktop\ChatTuga\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9f6d236bac26d02b410e4ee186ba517ace5ee661">
+        <dex dex="C:\Users\Daniel\Desktop\ChatTuga\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-9.8.0_9b68f2aeaf5955230512dcd02d11b2a0bf07af03\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Daniel\Desktop\ChatTuga\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\Daniel\Desktop\ChatTuga\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_d3bde34d6f092180388ff7d05bdea2361b32a3fd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Daniel\Desktop\ChatTuga\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="15e59454416c6341bd3ed2533b585cd340682dd1">
+        <dex dex="C:\Users\Daniel\Desktop\ChatTuga\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-9.8.0_8af2250efb581edcc631f0552190dfd0155a6951\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Daniel\Desktop\ChatTuga\app\build\intermediates\exploded-aar\com.android.support\design\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e195bd694d5389acfba27ff4fdfa64c4c65b2c05">
+        <dex dex="C:\Users\Daniel\Desktop\ChatTuga\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-24.1.1_94cb594b396ffab1840e4c31dbf2b539df5c695a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Daniel\Desktop\ChatTuga\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c61641e333fa88da21758bab8cc28ee16604b05f">
+        <dex dex="C:\Users\Daniel\Desktop\ChatTuga\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-9.8.0_2af3d18014acf39c97d1407790222fc406519fc9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Daniel\Desktop\ChatTuga\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2d240dd085626f03f759c41d628a0c8b63e491f">
+        <dex dex="C:\Users\Daniel\Desktop\ChatTuga\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-9.8.0_806cc2830a75881b966da505ac33368c7bbcacc4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Daniel\Desktop\ChatTuga\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6b6f292b8b951dcf2ecf2b20853e3eabc7d65c48">
+        <dex dex="C:\Users\Daniel\Desktop\ChatTuga\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-9.8.0_8df15fc040a550a37c1587ec8a0f737cb044b82c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Daniel\Desktop\ChatTuga\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\Daniel\Desktop\ChatTuga\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_43f6ff083cc981a77d26959028e8633a380b5bd4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Daniel\Desktop\ChatTuga\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Daniel\Desktop\ChatTuga\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_b4c3e8627fed3c1f541209037633de02da798666\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Daniel\Desktop\ChatTuga\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7e92aadd0697922316d1395c1887a23aebec640a">
+        <dex dex="C:\Users\Daniel\Desktop\ChatTuga\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-9.8.0_9a456a4c7c80d1e308823b4dbf42bed4ab1f52fd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Daniel\Desktop\ChatTuga\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\Daniel\Desktop\ChatTuga\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_43c5f4f966268c49a374429ff4f6faf3b156f558\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Daniel\Desktop\ChatTuga\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\Daniel\Desktop\ChatTuga\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_a43d485f6be61925ce9feada4f9125b0d2acf2f4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Daniel\Desktop\ChatTuga\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="190a642ba16d1421296a4d794606279b80039c59">
+        <dex dex="C:\Users\Daniel\Desktop\ChatTuga\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-9.8.0_2b9c63732bf7cccd8e940f74a144d9a70c30dd5f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Daniel\Desktop\ChatTuga\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6dbef940a52a7564b3abd067068cc03b4f6ad5f0">
+        <dex dex="C:\Users\Daniel\Desktop\ChatTuga\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_31482cf7bda8633d0f011eb47fe5b5d8d5727b73\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Daniel\Desktop\ChatTuga\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\Daniel\Desktop\ChatTuga\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_15a60f00f643ecbb534a35ee44200e61efa39f0a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Daniel\Desktop\ChatTuga\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\Daniel\Desktop\ChatTuga\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_b2dca650fa14d05f01999e5b09b9d5543d186162\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Daniel\Desktop\ChatTuga\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9ae243668d8b01e653f4191dd0f42a2df4addbe8">
+        <dex dex="C:\Users\Daniel\Desktop\ChatTuga\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_a86bed6bc724fb0ff7ec5aab355ad13e93d3176b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Daniel\Desktop\ChatTuga\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9ff04cc3470178a44512624036751a803418c2ca">
+        <dex dex="C:\Users\Daniel\Desktop\ChatTuga\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-9.8.0_9ff45a5af4bee35435ecd763a79302ad951e8437\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Daniel\Desktop\ChatTuga\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\Daniel\Desktop\ChatTuga\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_38dd831ec76c5d69a6d7ba57ec179bb177a407e3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Daniel\Desktop\ChatTuga\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-module\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3f8f779a22cbb4c4d0759467a4f1011bb5252970">
+        <dex dex="C:\Users\Daniel\Desktop\ChatTuga\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-module-9.8.0_1d1b02f75b77bc89e8414d955af3ab0e3a59d384\classes.dex" />
+    </item>
+
+</items>
